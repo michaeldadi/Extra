@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243436682169",
+    "firebase_url": "https://extra-eccc2.firebaseio.com",
+    "project_id": "extra-eccc2",
+    "storage_bucket": "extra-eccc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243436682169:android:e6098785dfc5d878ab9468",
+        "android_client_info": {
+          "package_name": "com.michaeldadi.extra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243436682169-514ief3le3imk0j4jt6jco51sg5eqgs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXMDXgYPNdZTQyDCKkSTL4245OzzuyL4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243436682169-514ief3le3imk0j4jt6jco51sg5eqgs9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243436682169-o993voj2ditalb1rpbqomkpqj469vsle.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.michaeldadi.extra"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
